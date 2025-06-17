@@ -1,17 +1,17 @@
-# 🧠 ReticulotypeToolkit: Mechanism-Guided Personalized Drug Recommendation for IBS
+#  ReticulotypeToolkit: Mechanism-Guided Personalized Drug Recommendation for IBS
 
 This repository provides a complete end-to-end AI agent system for personalized IBS drug recommendation, combining symbolic FSM path control, reinforcement learning, explainability, and doctor-in-the-loop feedback.
 
 ---
 
-## 🔍 Project Highlights
+##  Project Highlights
 
-- ✅ FSM-driven interpretable drug recommendation
-- ✅ Key–Lock matching for patient-state to mechanism alignment
-- ✅ Extractability score to prevent sticky/rebound drug paths
-- ✅ Doctor feedback override system + memory replay
-- ✅ Fully modular Python toolkit ready for deployment
-- ✅ Nature Medicine-ready: from psychological questionnaire to FSM-path visualization
+-  FSM-driven interpretable drug recommendation
+-  Key–Lock matching for patient-state to mechanism alignment
+-  Extractability score to prevent sticky/rebound drug paths
+- Doctor feedback override system + memory replay
+- Fully modular Python toolkit ready for deployment
+- Nature Medicine-ready: from psychological questionnaire to FSM-path visualization
 
 ---
 
@@ -29,7 +29,7 @@ This repository provides a complete end-to-end AI agent system for personalized 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ```bash
 # Clone and setup
@@ -46,7 +46,7 @@ python train.py
 
 ---
 
-## 🧪 Example
+##  Example
 
 - Input: Psychological scores, symptom vector
 - Output: Recommended drug + Mechanism path graph
@@ -56,7 +56,7 @@ python train.py
 
 ---
 
-## 🧬 Citation
+##  Citation
 
 If you use this toolkit in academic work, please cite:
 > Reticulotype: A Symbolic FSM-Reinforced Agent for Personalized IBS Drug Recommendation (Under Submission)
